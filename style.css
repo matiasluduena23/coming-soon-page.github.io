@@ -60,7 +60,7 @@ img{
 
 .paragraph {
     font-size: 1.2rem;
-    font-weight: 600;
+    font-weight: 300;
     color: var(--dark-blue-clr);
 }
 
@@ -111,7 +111,6 @@ img{
 
 .form-control.error small {
     display: block;
-   
 }
 
 .form-control.error #email {
@@ -164,6 +163,7 @@ img{
 }
 
 .footer-p {
+    font-size: 14px;
     color: var(--gray-clr);
     padding-block: 1rem;
     margin: 2rem 0;
