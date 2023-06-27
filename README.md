@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Overview](#overview) 
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -18,8 +18,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/matiasluduena23/coming-soon-page.github.io)
+- Live Site URL: [Website](https://matiasluduena23.github.io/coming-soon-page.github.io/)
 
 ## My process
 
